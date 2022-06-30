@@ -1,0 +1,10 @@
+.bgimg {
+  background-image: url("/images/bg_main_page.jpeg");
+  background-position: center;
+}
+
+.bgimgitem{
+  background-image: url("/images/bgimageitem.png");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
